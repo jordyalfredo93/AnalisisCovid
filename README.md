@@ -1,2 +1,2 @@
 # AnalisisCovid
-Covid - Analisis descriptivo del dpto Piura
+Covid - Análisis descriptivo del dpto Piura
